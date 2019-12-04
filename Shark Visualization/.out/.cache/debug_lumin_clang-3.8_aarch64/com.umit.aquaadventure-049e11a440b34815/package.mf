@@ -1,0 +1,367 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "130a9f03eed12e38c8946971962978fe84d48a4a",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 2916236,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "b810d7a551b1b1e705dc37e30f8aae77b81101aa",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 43886304,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\axk1112\\Documents\\GitHub\\privatekey\\mldevelopment.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "b9af363057395b04944b097ada685110635def96",
+   "xfrm_path": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/.out/.cache/debug_lumin_clang-3.8_aarch64/com.umit.aquaadventure-049e11a440b34815\\libil2cpp.so-270cd490a8883376",
+   "xfrm_size": 43887062
+  },
+  {
+   "compression": 8,
+   "hash": "5c856b80371bde9129f380cae53db7830d7c5138",
+   "pkgpath": "Data/Plugins/AudioPluginMSASpatializer.bundle",
+   "size": 257780,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.bundle"
+  },
+  {
+   "compression": 8,
+   "hash": "6b3b1067e8eeb28457c572292a209cc931e93089",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 269360,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\axk1112\\Documents\\GitHub\\privatekey\\mldevelopment.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "bada8321b6c4906f4ae390987fd5f1d97142df58",
+   "xfrm_path": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/.out/.cache/debug_lumin_clang-3.8_aarch64/com.umit.aquaadventure-049e11a440b34815\\AudioPluginMSASpatializer.so-25b335ee64acd132",
+   "xfrm_size": 270118
+  },
+  {
+   "compression": 8,
+   "hash": "9be18e2a18b0f33a76d571913aad46f3f5051d44",
+   "pkgpath": "Data/Plugins/DecoderContext.cpp",
+   "size": 21804,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/Plugins/DecoderContext.cpp"
+  },
+  {
+   "compression": 8,
+   "hash": "c418734b23bc1b188f5dacbc5339743e3d0d760f",
+   "pkgpath": "Data/Plugins/DecoderContext.h",
+   "size": 1649,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/Plugins/DecoderContext.h"
+  },
+  {
+   "compression": 8,
+   "hash": "580e09871cc43c82e945fe3d5adc7c87a1e6d818",
+   "pkgpath": "Data/Plugins/ExampleMusicProvider.cpp",
+   "size": 30844,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/Plugins/ExampleMusicProvider.cpp"
+  },
+  {
+   "compression": 8,
+   "hash": "3d11598b07f7c39e344873569264bc0ae8b011cd",
+   "pkgpath": "bin/LuminMediaPlayer.dll",
+   "size": 68608,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/Plugins/LuminMediaPlayer.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "3fdd7619da7dbbe3f2081bad8cda85af9853405f",
+   "pkgpath": "bin/LuminUnity.dll",
+   "size": 317440,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/Plugins/LuminUnity.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "2b84960e69feef2581c620537c74686d537bfdef",
+   "pkgpath": "bin/MSA.Runtime.dll",
+   "size": 19968,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/Plugins/MSA.Runtime.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "c5cc4f75a7201f2cbaaf1650f7ba2cbf2255d59a",
+   "pkgpath": "Data/Plugins/MusicProviderContext.cpp",
+   "size": 1134,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/Plugins/MusicProviderContext.cpp"
+  },
+  {
+   "compression": 8,
+   "hash": "969ce9bd08f8b0f75b058bec6b1908bd7da79a55",
+   "pkgpath": "Data/Plugins/MusicProviderContext.h",
+   "size": 1952,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/Plugins/MusicProviderContext.h"
+  },
+  {
+   "compression": 8,
+   "hash": "eb6aabe56180b6244d4c6390192c1b339307f31e",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 100864,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "0ec6b9a173ca30533eae58bd6ff10bc2a9c31b13",
+   "pkgpath": "bin/UnityEngine.UI.dll",
+   "size": 258048,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/Plugins/UnityEngine.UI.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "59d035b177af853aa8ee2a78714391dae4657a36",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 1495008,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\axk1112\\Documents\\GitHub\\privatekey\\mldevelopment.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "f61543a95012bf002a7b2a7035398c6c7cf0c8cd",
+   "xfrm_path": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/.out/.cache/debug_lumin_clang-3.8_aarch64/com.umit.aquaadventure-049e11a440b34815\\UnityMagicLeap.so-25b335ee64acd132",
+   "xfrm_size": 1495766
+  },
+  {
+   "compression": 8,
+   "hash": "7b70cff7a3b611f2677d096083a232287a5e8162",
+   "pkgpath": "Data/Plugins/Utility.cpp",
+   "size": 5685,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/Plugins/Utility.cpp"
+  },
+  {
+   "compression": 8,
+   "hash": "7f24a43d6d4013538a59b3e825234f7b6f4149d9",
+   "pkgpath": "Data/Plugins/Utility.h",
+   "size": 493,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/Plugins/Utility.h"
+  },
+  {
+   "compression": 8,
+   "hash": "c304dd41954e030c36437de3b651679e02512d0d",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\axk1112\\Documents\\GitHub\\privatekey\\mldevelopment.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "bbab3473863e4cfab674bb5a09538d88b08d9917",
+   "xfrm_path": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/.out/.cache/debug_lumin_clang-3.8_aarch64/com.umit.aquaadventure-049e11a440b34815\\libml_camera_plugin.so-25b335ee64acd132",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "6a0b868a47b45da60d66c10ba6a0195b85f54e43",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 67624,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\axk1112\\Documents\\GitHub\\privatekey\\mldevelopment.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "6bc0221a6c79e9fb889b00e81fc070e51775ef79",
+   "xfrm_path": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/.out/.cache/debug_lumin_clang-3.8_aarch64/com.umit.aquaadventure-049e11a440b34815\\libml_mediaplayer_plugin.so-25b335ee64acd132",
+   "xfrm_size": 68382
+  },
+  {
+   "compression": 8,
+   "hash": "984e4d2049ed5491b970ba15d1e8c8cadac0896e",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 339968,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "63c7ca62020949b1c87b1439f31b7a9719db98c1",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3652028,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "fb5b344bb5c6dffbceec2ed5072887a5976d015a",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 1422052,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "10506c7e5f53e331db0e8c7c94047849df023433",
+   "pkgpath": "Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json",
+   "size": 176,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "9f9d9fdfae69214ea57a2416e60a9fe924367caa",
+   "pkgpath": "Data/boot.config",
+   "size": 144,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "938927185f0771b7ed1ab051487275ca5a6937bf",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 42432,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "d064ebd6d8d2f8f28b1d2c585c3e21299f8fffa6",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 46356,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "3e94bcd4334aace7030df283e6a2dcc976e0f3b5",
+   "pkgpath": "Data/level0",
+   "size": 44836,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "41acf9d293f843c294ac387abce080cc674c7ed7",
+   "pkgpath": "Data/level0.resS",
+   "size": 5024628,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "9cc38d28a10c0fe6dab2941c67dd4e7843edda50",
+   "pkgpath": "Data/resources.assets",
+   "size": 524208,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/resources.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "d93a340ace95054a2254a2bdd41efad895a38c5b",
+   "pkgpath": "Data/resources.assets.resS",
+   "size": 360480,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/resources.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "8b9c0e53699127686e5137e26c038366e8273561",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 21620368,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "cd7020bced21d4d14841e9c8c87ae8ddde994ed3",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 62914920,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "d6f9d8b9a03c155752b5d40fdc9e841484417f9b",
+   "pkgpath": "bin/Player.elf",
+   "size": 20276168,
+   "src": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\axk1112\\Documents\\GitHub\\privatekey\\mldevelopment.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "77affbfeb615846a4e8e3174482690047579da8d",
+   "xfrm_path": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/.out/.cache/debug_lumin_clang-3.8_aarch64/com.umit.aquaadventure-049e11a440b34815\\Player.elf-2dbf608df4b10466",
+   "xfrm_size": 20276926
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/axk1112/MagicLeap/mlsdk/v0.21.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\axk1112\\Documents\\GitHub\\privatekey\\mldevelopment.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "a0f50c33c5b61f171b6613696c83dee4ced964ee",
+   "xfrm_path": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/.out/.cache/debug_lumin_clang-3.8_aarch64/com.umit.aquaadventure-049e11a440b34815\\libc++_shared.so-b47f5137d5022af8",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "1c01d2525a924826c34c89794933f15c63e90ba9",
+   "pkgpath": "manifest.xml",
+   "size": 543,
+   "src": "C:\\Users\\axk1112\\Documents\\GitHub\\Shark-Visualization\\Shark Visualization\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "f2429f9bdd8c63e76864bde3fa499eeec7818893",
+     "developer_id": "f044baa2-d148-46a4-b01a-1121fee453a9"
+    }
+   },
+   "xfrm_hash": "bb168836307f1cc757d43815938c7021256137cc",
+   "xfrm_path": "C:/Users/axk1112/Documents/GitHub/Shark-Visualization/Shark Visualization/.out/.cache/debug_lumin_clang-3.8_aarch64/com.umit.aquaadventure-049e11a440b34815\\manifest.xml-2dbf608df4b10466",
+   "xfrm_size": 555
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\axk1112\\Documents\\GitHub\\privatekey\\mldevelopment.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "C:\\Users\\axk1112\\Documents\\GitHub\\privatekey\\mldevelopment.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
